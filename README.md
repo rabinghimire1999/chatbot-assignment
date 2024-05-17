@@ -16,7 +16,7 @@ touch .env
 ```
 
 3. Enter openai key inside the .env file
-OPENAI_API_KEY=<yOUR OPENAI KEY>
+OPENAI_API_KEY="yOUR OPENAI KEY"
 
 4. Run the project
 ```
