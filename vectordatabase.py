@@ -19,7 +19,7 @@ class VectorStore:
         vectorstore = FAISS.from_texts(texts=self.text_chunks, embedding= self.embeddings)
         return vectorstore
     
-    
+ 
         
 
 
